@@ -12,7 +12,7 @@ O Projeto ocorrerar na qual os contribuidores irão fazer uma profunda pesquisa 
 ## Templates de repositório 🎉
 
 
-## Status e badges shields 🦄
+## Status e badges shields 
 
 
 
